@@ -25,7 +25,7 @@ A CIDR block consists of two components:
     2. Subnet Mask: Defines how many bits can change in the IP
 
 I chose 10.0.0.0/16 which gave my VPC 65'536 different IP-Addresses
-![alt text](VPC_Settings.png)
+![alt text](../Images/VPC_Settings.png)
 
 -> Finally, click “Create VPC” 
 
