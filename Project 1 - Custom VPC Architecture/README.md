@@ -30,7 +30,7 @@ I chose 10.0.0.0/16 which gave my VPC 65'536 different IP-Addresses
 -> Finally, click “Create VPC” 
 
 ### 2. Create Subnets
-Next, I created one public and one private subnet within my custom VPC, named "vpc-networking-lab"
+Next, I created one public and one private subnet within my custom VPC, named "vpc-networking-lab". 
 Subnets are a crucial part of a functional VPC because they define where resources are placed and allow separation between public and private network traffic.
 
 For the private subnet, I configured the following:
