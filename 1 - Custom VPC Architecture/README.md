@@ -97,6 +97,7 @@ I deployed two EC2 instances:
 ## Result
 A successfully built, fully functional and secure AWS network architecture.
 
+Components:
 - A custom VPC with isolated public and private subnets
 - Controlled Internet access using an Internet Gateway and NAT Gateway
 - Routing through route tables
