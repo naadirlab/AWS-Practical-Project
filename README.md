@@ -5,15 +5,16 @@ The idea was to actually try things out and see how different AWS services work 
 
 # Repository Structure
 
-AWS-Practical-Projects/
-├── 1 - Custom VPC Architecture/
-│   └── README.md
-├── 2 - Application Load Balancer & Multi-AZ EC2/
-│   └── README.md
-├── 3 - Static Website on AWS (S3 + CloudFront + Route53)/
-│   └── README.md
-├── Images/
-└── README.md
+AWS-Practical-Projects
+1 - Custom VPC Architecture
+    README.md
+2 - Application Load Balancer & Multi-AZ EC2
+    README.md
+3 - Static Website on AWS (S3 + CloudFront + Route53)
+    README.md
+Images
+    (screenshots for all projects)
+README.md 
 
 ## What I Built
 
