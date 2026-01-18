@@ -1,7 +1,7 @@
 # 1 - Custom VPC Architecture
 
 ## Overview
-In this project, I built a custom AWS Virtual Private Cloud (VPC) from scratch.
+In this part, I built a custom AWS Virtual Private Cloud (VPC) from scratch.
 
 The goal was to understand the basics of AWS networking, including subnets, routing, and secure Internet access.
 
@@ -102,3 +102,4 @@ Components:
 - Controlled Internet access using an Internet Gateway and NAT Gateway
 - Routing through route tables
 - Secure EC2 deployments with security group rules
+
