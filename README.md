@@ -5,6 +5,7 @@ The idea was to actually try things out and see how different AWS services work 
 
 # Repository Structure
 
+AWS-Practical-Projects/
 ├── 1 - Custom VPC Architecture/
 │   └── README.md
 ├── 2 - Application Load Balancer & Multi-AZ EC2/
