@@ -4,19 +4,19 @@ This repo has three small AWS projects I built while learning networking, high a
 The idea was to actually try things out and see how different AWS services work together in practice.
 
 # Repository Structure
-.
+
 ├── 1 - Custom VPC Architecture/
 │   └── README.md
 ├── 2 - Application Load Balancer & Multi-AZ EC2/
 │   └── README.md
-├── 3 - Static Website on AWS (S3 + CloudFront + Route53)
+├── 3 - Static Website on AWS (S3 + CloudFront + Route53)/
 │   └── README.md
 ├── Images/
 └── README.md
 
 ## What I Built
 
-1. Custom VPC Architecture
+### 1. Custom VPC Architecture
 
 A custom AWS VPC built from scratch to understand core networking concepts.
 
@@ -29,9 +29,8 @@ Key components:
 	•	EC2 instances in public and private subnets
 	•	Security groups with restricted access
 
-⸻
 
-2. Application Load Balancer & Multi-AZ EC2
+### 2. Application Load Balancer & Multi-AZ EC2
 
 An extension of the VPC project to focus on availability and traffic management.
 
@@ -43,9 +42,8 @@ Key components:
 - Simple web server setup using EC2 user-data
 - Route 53 alias record pointing to the ALB 
 
-⸻
 
-3. Static Website on AWS (S3 + CloudFront)
+### 3. Static Website on AWS (S3 + CloudFront)
 
 A simple static website hosted and delivered using AWS managed services.
 
@@ -57,8 +55,6 @@ Key components:
 - HTTPS enforced with HTTP → HTTPS redirection
 - Caching optimized for better performance
 
-⸻
-
 ## Key Learnings
 
 - How AWS networking components (VPC, subnets, route tables) work together
@@ -67,8 +63,6 @@ Key components:
 - How Application Load Balancers improve availability and security
 - How CloudFront improves performance and reduces load on origins
 - How DNS and alias records integrate with AWS services
-
-⸻
 
 ## Why These Projects Matter
 
