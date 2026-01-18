@@ -1,4 +1,4 @@
-# AWS Networking & Infrastructure Projects
+# AWS Networking & Infrastructure Project
 
 This repo contains an AWS project divided into 3 parts, which I built while learning networking, high availability, and hosting.
 The idea was to actually try things out and see how different AWS services work together in practice.
