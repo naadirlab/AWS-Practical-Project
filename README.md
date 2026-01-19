@@ -3,7 +3,7 @@
 This repo contains an AWS project divided into 3 parts, which I built while learning networking, high availability, and hosting.
 The idea was to actually try things out and see how different AWS services work together in practice.
 
-![alt text](Images/Architecture_Diagram_1.drawio.png)
+![alt text](Images/Project_Architecture.drawio.png)
 
 # Repository Structure
 
