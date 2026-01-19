@@ -67,7 +67,7 @@ Key components:
 - How CloudFront improves performance and reduces load on origins
 - How DNS and alias records integrate with AWS services
 
-## Why These Projects Matter
+## Why This Project Matters
 
 These setups are close to real-world architectures:
 - Not everything is public
